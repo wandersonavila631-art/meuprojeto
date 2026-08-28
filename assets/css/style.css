@@ -21,3 +21,19 @@ header{
     top:0;
     z-index: 10;
 }
+
+.logo {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.logo::first-letter {
+    color: #730707;
+}
+
+.menu {
+    display: flex;
+    gap
+}
+
+.letrae
