@@ -33,7 +33,15 @@ header{
 
 .menu {
     display: flex;
-    gap
+    gap: 30px;
 }
 
-.letrae
+.menu a {
+    color: #aaa;
+    text-decoration: none;
+    font-size: 14px;
+}
+.menu a:hover{
+    color: #4237e4;
+    font-size: 100px;
+}
