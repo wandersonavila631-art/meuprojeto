@@ -1,11 +1,7 @@
-console.log("hello,world")
+const imgsDestaque = ["./assets/img/eFootball-2023-1.jpg", "assets/img/maxresdefault.jpg"]
 
-const wanderson = "wanderson morais"
+let atual = 1;
 
-console.log(wanderson)
-
-let wanderson2 = "olá"
-
-console.log(wanderson2)
-
-wanderson2 = "arroz"
+const imagem = document.querySelector("#imagemDestaque")
+const proximo = document.querySelector("#proximo")
+const anterior = document.querySelector("anterior")
